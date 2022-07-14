@@ -1,0 +1,66 @@
+.pao{
+background-color: rgb(199, 147, 5);
+text-align: center;
+padding-top: 24px;
+padding-bottom: 24px;
+border-top-left-radius: 80px;
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-top-right-radius: 80px;
+font-size: 24px;
+margin: 0;
+}
+.maionese{
+    background-color: gold;
+    margin: 0;
+    text-align:center ;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+.ketchup{
+    background-color:red;
+    margin: 0;
+    text-align: center;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+.hamburguer{
+    background-color: chocolate;
+    margin: 0;
+    text-align: center;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+.queijo{
+    background-color: yellow;
+    margin: 0;
+    text-align: center;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+.presunto{
+    background-color: hotpink;
+    margin: 0;
+    text-align: center;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+.bacon{
+    background-color: brown;
+    margin: 0;
+    text-align: center;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+.pao2{
+    background-color:rgb(199, 147, 5); ;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top-left-radius:20px;
+   border-bottom-right-radius: 80px;
+   border-bottom-left-radius: 80px;
+   border-top-right-radius:20px;
+   font-size: 24px;
+   margin: 0;
+}
